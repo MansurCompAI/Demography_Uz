@@ -8,8 +8,5 @@
 
 
 
- ![pic](./images/Population.png)
+![pic](./images/Population.png)
 
-
-Next
-next
