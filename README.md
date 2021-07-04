@@ -7,6 +7,5 @@
 
 
 
-
-![pic](./images/Population.png)
+![populationtrend](./images/Population.png)
 
