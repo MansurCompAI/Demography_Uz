@@ -5,3 +5,5 @@
 ![populationtrend](./Images/Population.png)
 
 > We are currently over 34.6 millions. Within 20 years, we grew for almost 10 millions. 
+
+<code> import plotly </code>
